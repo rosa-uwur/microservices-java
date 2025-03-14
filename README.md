@@ -120,3 +120,8 @@ The **Product Service** retrieves product data from an external API (`https://fa
      ```
 
 ---
+
+## Postman Collection
+For examples of how to use the APIs, you can download the Postman collection from the following link:
+
+[Postman Collection - API Examples](https://github.com/rosa-uwur/microservices-java/blob/main/Microservices.postman_collection.json)
